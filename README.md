@@ -8,5 +8,5 @@
 # Runtime: run the program, there are some limitation with the code, checkmate has not been implemented
 # information is missing on the player tab, there is an issue drawing a piece on the incorrect space.
 # Programmers: Jacob Vaughn
-# License Information: all images were obtain from public domain.
+# License Information: all images were obtained from public domain.
 # as owner of software I retain onwership and provide it publicly.
